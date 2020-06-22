@@ -92,6 +92,12 @@ d->directory
 ``` 
 find . -type f -name  "*.txt"
 ```
+### grep cmd :
+refer to the below link:
+
+``` 
+https://phoenixnap.com/kb/grep-command-linux-unix-examples
+```
 
 
 
