@@ -98,6 +98,14 @@ refer to the below link:
 ``` 
 https://phoenixnap.com/kb/grep-command-linux-unix-examples
 ```
+### Processes:
+``` 
+top (This cmd outputs the live running process)
+
+kill <process id> --> kills the process 
+
+```
+
 
 
 
